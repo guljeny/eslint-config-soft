@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-basic",
+  "name": "eslint-config-soft",
   "version": "1.0.0",
   "description": "Casique eslint config",
   "main": "index.js",
